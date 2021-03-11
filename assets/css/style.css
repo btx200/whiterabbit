@@ -1,0 +1,176 @@
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-Black.eot");
+  src: url("../fonts/sailec/Sailec-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-Black.woff2") format("woff2"), url("../fonts/sailec/Sailec-Black.woff") format("woff"), url("../fonts/sailec/Sailec-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-BlackItalic.eot");
+  src: url("../fonts/sailec/Sailec-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-BlackItalic.woff2") format("woff2"), url("../fonts/sailec/Sailec-BlackItalic.woff") format("woff"), url("../fonts/sailec/Sailec-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-BoldItalic.eot");
+  src: url("../fonts/sailec/Sailec-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-BoldItalic.woff2") format("woff2"), url("../fonts/sailec/Sailec-BoldItalic.woff") format("woff"), url("../fonts/sailec/Sailec-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec Hairline';
+  src: url("../fonts/sailec/Sailec-HairlineItalic.eot");
+  src: url("../fonts/sailec/Sailec-HairlineItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-HairlineItalic.woff2") format("woff2"), url("../fonts/sailec/Sailec-HairlineItalic.woff") format("woff"), url("../fonts/sailec/Sailec-HairlineItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-Bold.eot");
+  src: url("../fonts/sailec/Sailec-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-Bold.woff2") format("woff2"), url("../fonts/sailec/Sailec-Bold.woff") format("woff"), url("../fonts/sailec/Sailec-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-LightItalic.eot");
+  src: url("../fonts/sailec/Sailec-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-LightItalic.woff2") format("woff2"), url("../fonts/sailec/Sailec-LightItalic.woff") format("woff"), url("../fonts/sailec/Sailec-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-Light.eot");
+  src: url("../fonts/sailec/Sailec-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-Light.woff2") format("woff2"), url("../fonts/sailec/Sailec-Light.woff") format("woff"), url("../fonts/sailec/Sailec-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-Medium.eot");
+  src: url("../fonts/sailec/Sailec-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-Medium.woff2") format("woff2"), url("../fonts/sailec/Sailec-Medium.woff") format("woff"), url("../fonts/sailec/Sailec-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-MediumItalic.eot");
+  src: url("../fonts/sailec/Sailec-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-MediumItalic.woff2") format("woff2"), url("../fonts/sailec/Sailec-MediumItalic.woff") format("woff"), url("../fonts/sailec/Sailec-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-RegularItalic.eot");
+  src: url("../fonts/sailec/Sailec-RegularItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-RegularItalic.woff2") format("woff2"), url("../fonts/sailec/Sailec-RegularItalic.woff") format("woff"), url("../fonts/sailec/Sailec-RegularItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-ThinItalic.eot");
+  src: url("../fonts/sailec/Sailec-ThinItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-ThinItalic.woff2") format("woff2"), url("../fonts/sailec/Sailec-ThinItalic.woff") format("woff"), url("../fonts/sailec/Sailec-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec Hairline';
+  src: url("../fonts/sailec/Sailec-Hairline.eot");
+  src: url("../fonts/sailec/Sailec-Hairline.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-Hairline.woff2") format("woff2"), url("../fonts/sailec/Sailec-Hairline.woff") format("woff"), url("../fonts/sailec/Sailec-Hairline.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-Regular.eot");
+  src: url("../fonts/sailec/Sailec-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-Regular.woff2") format("woff2"), url("../fonts/sailec/Sailec-Regular.woff") format("woff"), url("../fonts/sailec/Sailec-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Sailec';
+  src: url("../fonts/sailec/Sailec-Thin.eot");
+  src: url("../fonts/sailec/Sailec-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/sailec/Sailec-Thin.woff2") format("woff2"), url("../fonts/sailec/Sailec-Thin.woff") format("woff"), url("../fonts/sailec/Sailec-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap; }
+
+.header {
+  height: 37px;
+  width: 1719px;
+  left: 101px;
+  top: 27px;
+  border-radius: 0px;
+  position: fixed;
+  z-index: 999999999999999999; }
+
+a.navbar-brand {
+  color: #fff; }
+
+a.nav-link {
+  color: #000; }
+
+body, body * {
+  font-family: 'Sailec', sans-serif;
+  font-size: 16px; }
+
+.img2 {
+  position: absolute;
+  width: 806px;
+  height: 1208px;
+  left: 1014px;
+  top: 8rem;
+  background: url("../../images/image 6.png") no-repeat; }
+
+.banner_content {
+  position: absolute;
+  width: 498px;
+  height: 344px;
+  left: 228px;
+  top: 298px;
+  color: #fff; }
+
+h6 {
+  height: 17px;
+  left: 228px;
+  top: 298px;
+  border-radius: nullpx; }
+
+h2 {
+  font-family: Sailec;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 106px;
+  letter-spacing: 0em;
+  text-align: left; }
+
+.cta {
+  height: 58px;
+  top: 25rem;
+  border-radius: 0px;
+  position: absolute; }
+  .cta button {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #C7E1BF;
+    border-radius: 48px;
+    padding: 15px;
+    margin-right: 4rem; }

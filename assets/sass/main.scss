@@ -1,0 +1,71 @@
+@import "layout";
+@import "colors";
+@import "fonts";
+@import "header";
+@import "footer";
+
+body, body *{
+    font-family: 'Sailec', sans-serif;
+    font-size: 16px;
+}
+
+
+.img2{
+    position: absolute;
+    width: 806px;
+    height: 1208px;
+    left: 1014px;
+    top: 8rem;
+
+    background: url('../../images/image 6.png') no-repeat;
+}
+
+.banner_content{
+    position: absolute;
+    width: 498px;
+    height: 344px;
+    left: 228px;
+    top: 298px;
+    color: #fff;
+}
+
+h6{
+    height: 17px;
+    left: 228px;
+    top: 298px;
+    border-radius: nullpx;
+
+}
+
+h2{
+    font-family: Sailec;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 106px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.cta{
+    height: 58px;
+    top: 25rem;
+    border-radius: 0px;
+    position: absolute;
+
+    & button{
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 0%;
+    
+        background: #C7E1BF;
+        border-radius: 48px;
+
+        padding: 15px;
+        margin-right: 4rem;
+    }
+
+}
+
