@@ -1,6 +1,4 @@
-.header{
-
-    
+.header{ 
     left: 101px;
     top: 27px;
     border-radius: 0px;
@@ -9,9 +7,15 @@
 }
 
 a.navbar-brand {
-    color: #fff;
+    color: $color-white;
+    font-size: 1.6rem;
+    letter-spacing: 0.3rem;
 }
 
 a.nav-link {
-    color: #000;
+    color: $color-secondary;
+}
+
+.nav-item:not(:last-child) {
+    margin-right: 25px;
 }
